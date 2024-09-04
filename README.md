@@ -1,1 +1,1 @@
-# itmo_labs_cloud_devops
+Лабы по Облачным технологиям и DevOps
